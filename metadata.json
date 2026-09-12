@@ -1,0 +1,6 @@
+{
+  "name": "The Laws of Money",
+  "description": "The Laws of Money by KneelBooks — A biblical and practical guide to wealth creation, covenant economics, value, and dominion with interactive reader, audio, journal, and Android APK & PWA installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
